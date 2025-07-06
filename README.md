@@ -58,3 +58,8 @@ A simple **command-line diary application** written in Java that helps you creat
 - ✅ Encrypt entries for privacy.
 
 ---
+
+## 👤 Author
+
+- **Prithvi Patel**  
+  [@student-prithvipatel](https://github.com/student-prithvipatel)
